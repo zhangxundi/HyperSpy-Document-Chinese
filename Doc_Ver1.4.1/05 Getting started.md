@@ -208,7 +208,7 @@ axis属性可以通过设置DataAxis属性来设置，例如：
 >>> s.axes_manager.gui()
 ```
 
-![axes_manager_gui_ipywidgets](C:\Users\ftxun\Documents\GitHub\HyperSpy-Document-Chinese\Doc_Ver1.4.1\images\axes_manager_gui_ipywidgets.png)
+![](https://raw.githubusercontent.com/zhangxundi/HyperSpy-Document-Chinese/master/Doc_Ver1.4.1/images/axes_manager_gui_ipywidgets.png)
 
 *AxesManager ipywidgets GUI.*
 
@@ -218,7 +218,7 @@ axis属性可以通过设置DataAxis属性来设置，例如：
 >>> s.axes_manager["X"].gui()
 ```
 
-![](C:\Users\ftxun\Documents\GitHub\HyperSpy-Document-Chinese\Doc_Ver1.4.1\images\data_axis_gui_ipywidgets.png)
+![](https://raw.githubusercontent.com/zhangxundi/HyperSpy-Document-Chinese/master/Doc_Ver1.4.1/images/data_axis_gui_ipywidgets.png)
 
 *DataAxis ipywidgets GUI.*
 
@@ -228,7 +228,7 @@ axis属性可以通过设置DataAxis属性来设置，例如：
 >>> s.axes_manager.gui_navigation_sliders()
 ```
 
-![](C:\Users\ftxun\Documents\GitHub\HyperSpy-Document-Chinese\Doc_Ver1.4.1\images\axes_manager_navigation_sliders_ipywidgets.png)
+![](https://raw.githubusercontent.com/zhangxundi/HyperSpy-Document-Chinese/master/Doc_Ver1.4.1/images/axes_manager_navigation_sliders_ipywidgets.png)
 
 *Navigation sliders ipywidgets GUI.*
 
@@ -361,7 +361,7 @@ pint.quantity.build_quantity_class.<locals>.Quantity
 
 如果安装并启用了某个HyperSpy GUI包，该命令应该会弹出Preferences用户界面：
 
-![](C:\Users\ftxun\Documents\GitHub\HyperSpy-Document-Chinese\Doc_Ver1.4.1\images\preferences.png)
+![](https://raw.githubusercontent.com/zhangxundi/HyperSpy-Document-Chinese/master/Doc_Ver1.4.1/images/preferences.png)
 
 *Preferences user interface.*
 
@@ -394,4 +394,3 @@ INFO:hyperspy.io_plugins.digital_micrograph:Is file Little endian? True
 INFO:hyperspy.io_plugins.digital_micrograph:Total tags in root group: 15
 <Signal2D, title: My file, dimensions: (|1024, 1024)
 ```
-
